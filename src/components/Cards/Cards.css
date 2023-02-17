@@ -1,0 +1,25 @@
+.cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background: rgba(169, 244, 247, 0.2);
+    padding: 30px;
+    border-radius: 10px;
+    color: antiquewhite;
+    padding: 10px;
+    font-family: 'Poppins', sans-serif;
+    margin: 30px;
+    width: 1350px;
+    height: 380px; ;
+}
+
+.empty {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: antiquewhite;
+    font-family: 'Poppins', sans-serif;
+    height: 400px;
+    backdrop-filter: blur(2px);
+}

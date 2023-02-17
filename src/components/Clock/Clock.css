@@ -1,0 +1,13 @@
+.reloj {
+    color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+    font-size: 50px;
+    font-family: "Poppins", sans-serif;
+    position: relative;
+    left: 0;
+    right: 0;
+}

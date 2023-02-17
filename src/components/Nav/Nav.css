@@ -1,0 +1,32 @@
+.nav {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    border: 0;
+}
+
+.about {
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    color:antiquewhite;
+}
+
+.about:hover {
+    color: black;
+    font-weight: bolder;
+}
+
+.city {
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    color:antiquewhite;
+    font-weight: bold;
+}
+
+.city:hover {
+    color: black;
+}

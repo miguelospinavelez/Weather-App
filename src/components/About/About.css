@@ -1,0 +1,21 @@
+.abt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: antiquewhite;
+    font-family: 'Poppins', sans-serif;
+    height: 400px;
+    backdrop-filter: blur(4px);
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+    border: 2px;
+    border: blur(2px);
+  
+}
+
+.abt p {
+    font-size: 20px; 
+    width: 700px;
+}

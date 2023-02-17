@@ -1,0 +1,13 @@
+TO DO:
+
+Filter equal keys.
+
+Add search prediction and control form. 
+
+Implement Redux.
+
+Display city info in card.
+
+Local time zone clocks.
+
+Host.

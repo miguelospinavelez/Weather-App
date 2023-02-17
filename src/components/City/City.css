@@ -1,0 +1,26 @@
+.cntnr {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: antiquewhite;
+    font-family: 'Poppins', sans-serif;
+    height: 400px;
+    backdrop-filter: blur(4px);
+    text-align: center;
+    font-weight: bold;
+    border: 2px;
+    border: blur(2px);
+    font-size: larger;
+    margin-top: 20px;
+}
+
+.empty {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: antiquewhite;
+    font-family: 'Poppins', sans-serif;
+    height: 400px;
+    backdrop-filter: blur(2px);
+}

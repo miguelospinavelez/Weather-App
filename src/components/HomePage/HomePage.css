@@ -1,0 +1,16 @@
+.HomePage {
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+ color: antiquewhite;
+ font-family: 'Poppins', sans-serif;
+ font-size: 60px;
+ margin-bottom: 0px;
+ text-decoration: none;
+ margin-top: 0;
+}
+
+.HomePage:hover {
+    color: black;
+}

@@ -1,13 +1,22 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fl1J9xRLvfhAGVeiys%2Fgiphy.gif&f=1&nofb=1&ipt=5a21f87d75818c86245af811f8393bf2487bc30958e97c05599827d6dc2ff011&ipo=images);
+    background-size: 1500px, 1150px;
+ }
+
+ 
+p {
+    padding: 10px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+hr {
+    border: none;
+    height: 0.1px;
+    color: #333; 
+    background-color: #333; 
+    opacity: 0.1;
+}
+
+footer {
+    height: 100px;
+    bottom: 0;
 }
